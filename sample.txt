@@ -4,3 +4,5 @@
 
 
 //Many cats mew, others do not. Generally speaking 'big cats' do not mew, smaller cats do mew. A Lynx however does indeed mew despite //being quite a sizeable cat!
+
+//Lynxes are very solitary creatures and are seldom seen in the wild by humans.
